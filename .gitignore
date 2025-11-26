@@ -1,0 +1,7 @@
+__pycache__/
+*.h5
+*.pt
+*.png
+desktop.ini
+Raw_Tiles/
+sam2/

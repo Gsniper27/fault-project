@@ -1,0 +1,15 @@
+dataMode: both
+dataset: key.lst
+gpuIndex: 0
+batchsize: 32
+lr0: 0.0001
+stepPerMiniBatch: 8
+resDir: train/
+mn: 256
+job: train
+isAtten: False
+alpha: 0.1
+dw: 0.15
+d0: 0.05
+dropout: 0
+modelType: mars_sam
